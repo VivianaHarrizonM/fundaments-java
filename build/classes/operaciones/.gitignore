@@ -1,0 +1,24 @@
+# Ignorar carpetas de compilación
+/build/
+/dist/
+
+# Archivos de NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# Archivos temporales del sistema
+*.log
+*.class
+*.jar
+*.war
+*.iml
+*.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+*.ipr
+*.iws
+*.idea/
